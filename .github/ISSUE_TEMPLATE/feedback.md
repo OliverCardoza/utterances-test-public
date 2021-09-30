@@ -11,7 +11,7 @@ assignees: ''
 // You can also delete any lines starting with //
 
 // The version this feedback is for.
-Version: VERSION
+**Version:** VERSION
 
-Comments:
+**Comments:**
 YOUR_WORDS_GO_HERE
