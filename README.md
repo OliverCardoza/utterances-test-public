@@ -12,7 +12,7 @@ Links
 
 * Github repo: [https://github.com/OliverCardoza/utterances-test-public](https://github.com/OliverCardoza/utterances-test-public)
 * Github page: [https://olivercardoza.com/utterances-test-public/](https://olivercardoza.com/utterances-test-public/)
-* Github issues: [https://github.com/OliverCardoza/utterances-test-public/issues](https://github.com/OliverCardoza/utterances-test-public/issues/1)
+* Github issues: [https://github.com/OliverCardoza/utterances-test-public/issues](https://github.com/OliverCardoza/utterances-test-public/issues)
 
 <script src="https://utteranc.es/client.js"
         repo="OliverCardoza/utterances-test-public"
