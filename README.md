@@ -1,2 +1,18 @@
 # utterances-test-public
+
 Test of utteranc.es from a public repo.
+
+This repo is publicly accessible and has enabled Github pages to serve from the
+default branch root directory.
+
+I've added the embedded script which should surface a comment box at the bottom
+of the page. Comments there should create issues at
+https://github.com/OliverCardoza/utterances-test-public/issues
+
+<script src="https://utteranc.es/client.js"
+        repo="OliverCardoza/utterances-test-public"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
